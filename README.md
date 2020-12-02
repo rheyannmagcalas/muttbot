@@ -1,4 +1,5 @@
 # Muttbot: A math chatbot
+A spacy-powered, wikipedia-scraping Math Chatbot for Telegram
 
 ### Audience
 High school and Senior high school students.
