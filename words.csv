@@ -1,0 +1,164 @@
+word,description
+abstract algebra,"the area of modern mathematics that considers algebraic structures to be sets with operations defined on them, and extends algebraic concepts usually associated with the real number system to other more general systems, such as groups, rings, fields, modules and vector spaces"
+algebra,"a branch of mathematics that uses symbols or letters to represent variables, values or numbers, which can then be used to express operations and relationships and to solve equations"
+algebraic expression,"a combination of numbers and letters equivalent to a phrase in language, e.g. x2 + 3x – 4"
+algebraic equation,"a combination of numbers and letters equivalent to a sentence in language, e.g. y = x2 + 3x – 4"
+algorithm,a step by step procedure by which an operation can be carried out
+amicable numbers,"pairs of numbers for which the sum of the divisors of one number equals the other number, e.g. 220 and 284, 1184 and 1210"
+analytic (Cartesian) geometry,"the study of geometry using a coordinate system and the principles of algebra and analysis, thus defining geometrical shapes in a numerical way and extracting numerical information from that representation"
+analysis (mathematical analysis),"grounded in the rigorous formulation of calculus, analysis is the branch of pure mathematics concerned with the notion of a limit (whether of a sequence or of a function)"
+arithmetic,"the part of mathematics that studies quantity, especially as the result of combining numbers (as opposed to variables) using the traditional operations of addition, subtraction, multiplication and division (the more advanced manipulation of numbers is usually known as number theory)"
+associative property,"property (which applies both to multiplication and addition) by which numbers can be added or multiplied in any order and still yield the same value, e.g. (a + b) + c = a + (b + c) or (ab)c = a(bc)"
+asymptote,a line that the curve of a function tends towards as the independent variable of the curve approaches some limit (usually infinity) i.e. the distance between the curve and the line approaches zero
+axiom,"a proposition that is not actually proved or demonstrated, but is considered to be self-evident and universally accepted as a starting point for deducing and inferring other truths and theorems, without any need of proof"
+base n,"the number of unique digits (including zero) that a positional numeral system uses to represent numbers, e.g. base 10 (decimal) uses 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9 in each place value position; base 2 (binary) uses just 0 and 1; base 60 (sexagesimal, as used in ancient Mesopotamia) uses all the numbers from 0 to 59; etc"
+Bayesian probability,"a popular interpretation of probability which evaluates the probability of a hypothesis by specifying some prior probability, and then updating in the light of new relevant data"
+bell curve,the shape of the graph that indicates a normal distribution in probability and statistics
+bijection,"a one-to-one comparison or correspondence of the members of two sets, so that there are no unmapped elements in either set, which are therefore of the same size and cardinality"
+binomial,"a polynomial algebraic expression or equation with just two terms, e.g. 2x3 – 3y = 7; x2 + 4x; etc"
+binomial coefficients,"the coefficients of the polynomial expansion of a binomial power of the form (x + y) n, which can be arranged geometrically according to the binomioal theorem as a symmetrical triangle of numbers known as Pascal’s Triangle, e.g. (x + y)4 = x4 + 4x3y + 6x2y2 + 4xy3 + y4 the coefficients are 1, 4, 6, 4, 1"
+Boolean algebra or logic,"a type of algebra which can be applied to the solution of logical problems and mathematical functions, in which the variables are logical rather than numerical, and in which the only operators are AND, OR and NOT"
+calculus (infinitesimal calculus),"a branch of mathematics involving derivatives and integrals, used to study motion and changing values"
+calculus of variations,an extension of calculus used to search for a function which minimizes a certain functional (a functional is a function of a function)
+cardinal numbers,"numbers used to measure the cardinality or size (but not the order) of sets – the cardinality of a finite set is just a natural number indicating the number of elements in the set; the sizes of infinite sets are described by transfinite cardinal numbers, 0 (aleph-null), 1 (aleph-one), etc"
+Cartesian coordinates,"a pair of numerical coordinates which specify the position of a point on a plane based on its distance from the the two fixed perpendicular axes (which, with their positive and negative values, split the plane up into four quadrants)"
+coefficients,"the factors of the terms (i.e. the numbers in front of the letters) in a mathematical expression or equation, e.g. in the expression 4x + 5y2 + 3z, the coefficients for x, y2 and z are 4, 5 and 3 respectively"
+combinatorics,"the study of different combinations and groupings of numbers, often used in probability and statistics, as well as in scheduling problems and Sudoku puzzles"
+complex dynamics,the study of mathematical models and dynamical systems defined by iteration of functions on complex number spaces
+complex number,"a number expressed as an ordered pair comprising a real number and an imaginary number, written in the form a + bi, where a and b are real numbers, and i is the imaginary unit (equal to the square root of -1)"
+composite number,"a number with at least one other factor besides itself and one, i.e. not a prime number"
+congruence,"two geometrical figures are congruent to one another if they have the same size and shape, and so one can be transformed into the other by a combination of translation, rotation and reflection"
+conic section,"the section or curve formed by the intersection of a plane and a cone (or conical surface), depending on the angle of the plane it could be an ellipse, a hyperbola or a parabola"
+continued fraction,"a fraction whose denominator contains a fraction, whose denominator in turn contains a fraction, etc, etc"
+coordinate,"the ordered pair that gives the location or position of a point on a coordinate plane, determined by the point’s distance from the x and y axes, e.g. (2, 3.7) or (-5, 4)"
+coordinate plane,"a plane with two scaled perpendicular lines that intersect at the origin, usually designated x (horizontal axis) and y (vertical axis)"
+correlation,"a measure of relationship between two variables or sets of data, a positive correlation coefficient indicating that one variable tends to increase or decrease as the other does, and a negative correlation coefficient indicating that one variable tends to increase as the other decreases and vice versa"
+cubic equation,"a polynomial having a degree of 3 (i.e. the highest power is 3), of the form ax3 + bx2 + cx + d = 0, which can be solved by factorization or formula to find its three roots"
+decimal number,"a real number which expresses fractions on the base 10 standard numbering system using place value, e.g. 37⁄100 = 0.37"
+deductive reasoning or logic,"a type of reasoning where the truth of a conclusion necessarily follows from, or is a logical consequence of, the truth of the premises (as opposed to inductive reasoning)"
+derivative,"a measure of how a function or curve changes as its input changes, i.e. the best linear approximation of the function at a particular input value, as represented by the slope of the tangent line to the graph of the function at that point, found by the operation of differentiation"
+descriptive geometry,a method of representing three-dimensional objects by projections on the two-dimensional plane using a specific set of procedures
+differential equation,"an equation that expresses a relationship between a function and its derivative, the solution of which is not a single value but a function (has many applications in engineering, physics economics, etc)"
+differential geometry,a field of mathematics that uses the methods of differential and integral calculus (as well as linear and multilinear algebra) to study the geometry of curves and surfaces
+differentiation,the operation in calculus (inverse to the operation of integration) of finding the derivative of a function or equation
+Diophantine equation,a polynomial equation with integer coefficients that also allows the variables and solutions to be integers only
+distributive property,"property whereby summing two numbers and then multiplying by another number yields the same value as multiplying both values by the other value and then adding them together, e.g. a(b + c) = ab + ac"
+element,"a member of, or an object in, a set"
+ellipse,"a plane curve resulting from the intersection of a cone by a plane, that looks like a slightly flattened circle (a circle is a special case of an ellipse)"
+elliptic geometry,"a non-Euclidean geometry based (at its simplest) on a spherical plane, in which there are no parallel lines and the angles of a triangle sum to more than 180°"
+empty (null) set,"a set that has no members, and therefore has zero size, usually represented by {} or ø"
+Euclidean geometry,"“normal” geometry based on a flat plane, in which there are parallel lines and the angles of a triangle sum to 180°"
+expected value,"the amount predicted to be gained, using the calculation for average expected payoff, which can be calculated as the integral of a random variable with respect to its probability measure (the expected value may not actually be the most probable value and may not even exist, e.g. 2.5 children)"
+exponentiation,"the mathematical operation where a number (the base) is multiplied by itself a specified number of times (the exponent), usually written as a superscript an, where a is the base and n is the exponent, e.g. 43 = 4 x 4 x 4"
+factor,"a number that will divide into another number exactly, e.g. the factors of 10 are 1, 2 and 5"
+factorial,"the product of all the consecutive integers up to a given number (used to give the number of permutations of a set of objects), denoted by n!, e.g. 5! = 1 x 2 x 3 x 4 x 5 = 120"
+Fermat primes,"prime numbers that are one more than a power of 2 (and where the exponent is itself a power of 2), e.g. 3 (21 + 1), 5 (22 + 1), 17 (24 + 1), 257 (28 + 1), 65,537 (216 + 1), etc"
+Fibonacci numbers (series),a set of numbers formed by adding the last two numbers to get the next in the series
+finite differences,a method of approximating the derivative or slope of a function using approximately equivalent difference quotients (the function difference divided by the point difference) for small differences
+formula,"a rule or equation describing the relationship of two or more variables or quantities, e.g. A = πr2"
+Fourier series,"an approximation of more complex periodic functions (such as square or saw-tooth functions) by adding together various simple trigonometric functions (e.g. sine, cosine, tangent, etc)"
+fraction,"a way of writing rational numbers (numbers that are not whole numbers), also used to represent ratios or division, in the form of a numerator over a denominator, e.g. 3⁄5 (a unit fraction is a fraction whose numerator is 1)"
+fractal,a self-similar geometric shape (one that appears similar at all levels of magnification) produced by an equation that undergoes repeated iterative steps or recursion
+function,"a relation or correspondence between two sets in which one element of the second (codomain or range) set ƒ(x) is assigned to each element of the first (domain) set x, e.g. ƒ(x) = x2 or y = x2 assigns a value to ƒ(x) or y based on the square of each value of x"
+game theory,"a branch of mathematics that attempts to mathematically capture behaviour in strategic situations, in which an individual’s success in making choices depends on the choices of others, with applications in the areas of economics, politics, biology, engineering, etc"
+Gaussian curvature,"an intrinsic measure of the curvature of a point on a surface, dependent only on how distances are measured on the surface and not on the way it is embedded in space"
+geometry,"the part of mathematics concerned with the size, shape and relative position of figures, or the study of lines, angles, shapes and their properties"
+"golden ratio (golden mean, divine proportion)",the ratio of two quantities (equivalent to approximately 1
+graph theory,"a branch of mathematics focusing on the properties of a variety of graphs (meaning visual representations of data and their relationships, as opposed to graphs of functions on a Cartesian plane)"
+group,"a mathematical structure consisting of a set together with an operation that combines any two of its elements to form a third element, e.g. the set of integers and the addition operation form a group"
+group theory,the mathematical field that studies the algebraic structures and properties of groups and the mappings between them
+Hilbert problems,an influential list of 23 open (unsolved) problems in mathematics described by David Hilbert in 1900
+hyperbola,a smooth symmetrical curve with two branches produced by the section of a conical surface
+hyperbolic geometry,"a non-Euclidean geometry based on a saddle-shaped plane, in which there are no parallel lines and the angles of a triangle sum to less than 180°"
+identity,"an equality that remains true regardless of the values of any variables that appear within it, e.g. for multiplication, the identity is one; for addition, the identity is zero"
+imaginary numbers,"numbers in the form bi, where b is a real number and i is the “imaginary unit”, equal to √-1 (i.e. i2 = -1)"
+inductive reasoning or logic,"a type of reasoning that involves moving from a set of specific facts to a general conclusion, indicating some degree of support for the conclusion without actually ensuring its truth"
+infinite series,"the sum of an infinite sequence of numbers (which are usually produced according to a certain rule, formula or algorithm)"
+infinitesimal,"quantities or objects so small that there is no way to see them or to measure them, so that for all practical purposes they approach zero as a limit (an idea used in the developement of infinitesimal calculus)"
+infinity,"a quantity or set of numbers without bound, limit or end, whether countably infinite like the set of integers, or uncountably infinite like the set of real numbers (represented by the symbol ∞)"
+integers,"whole numbers, both positive (natural numbers) and negative, including zero"
+integral,"the area bounded by a graph or curve of a function and the x axis, between two given values of x (definite integral), found by the operation of integration"
+integration,the operation in calculus (inverse to the operation of differentiation) of finding the integral of a function or equation
+irrational numbers,"numbers that can not be represented as decimals (because they would contain an infinite number of non-repeating digits) or as fractions of one integer over another, e.g. π, √2, e"
+Julia set,"the set of points for a function of the form z2 + c (where c is a complex parameter), such that a small perturbation can cause drastic changes in the sequence of iterated function values and iterations will either approach zero, approach infinity or get trapped in loop"
+knot theory,an area of topology that studies mathematical knots (a knot is a closed curve in space formed by interlacing a piece of “string” and joining the ends)
+least squares method,a method of regression analysis used in probability theory and statistics to fit a curve-of-best-fit to observed data by minimizing the sum of the squares of the differences between the observed values and the values provided by the model
+limit,"the point towards which a series or function converges, e.g. as x becomes closer and closer to zero, (sin x)⁄x becomes closer and closer to the limit of 1"
+line,"in geometry, a one-dimensional figure following a continuous straight path joining two or more points, whether infinite in both directions or just a line segment bounded by two distinct end points"
+linear equation,"an algebraic equation in which each term is either a constant or the product of a constant and the first power of a single variable, and whose graph is therefore a straight line, e.g. y = 4, y = 5x + 3"
+linear regression,a technique in statistics and probability theory for modelling scattered data by assuming an approximate linear relationship between the dependent and independent variables
+logarithm,"the inverse operation to exponentiation, the exponent of a power to which a base (usually 10 or e for natural logarithms) must be raised to produce a given number, e.g. because 1,000 = 103, the log10 100 = 3"
+logic,"the study of the formal laws of reasoning (mathematical logic the application of the techniques of formal logic to mathematics and mathematical reasoning, and vice versa)"
+logicism,"the theory that mathematics is just an extension of logic, and that therefore some or all mathematics is reducible to logic"
+magic square,"a square array of numbers where each row, column and diagonal added up to the same total, known as the magic sum or constant (a semi-magic square is a square numbers where just the rows and columns, but not both diagonals, sum to a constant)"
+Mandelbrot set,"a set of points in the complex plane, the boundary of which forms a fractal, based on all the possible c points and Julia sets of a function of the form z2 + c (where c is a complex parameter)"
+manifold,"a topological space or surface which, on a small enough scale, resembles the Euclidean space of a specific dimension (called the dimension of the manifold), e.g. a line and a circle are one-dimensional manifolds; a plane and the surface of a sphere are two-dimensional manifolds; etc"
+matrix,"a rectangular array of numbers, which can be added, subtracted and multiplied, and used to represent linear transformations and vectors, solve equations, etc"
+Mersenne number,"numbers that are one less than 2 to the power of a prime number, e.g. 3 (22 – 1); 7 (23 – 1); 31 (25 – 1); 127 (27 – 1); 8,191 (213 – 1); etc"
+Mersenne primes,"prime numbers that are one less than a power of 2, e.g. 3 (22 – 1); 7 (23 – 1); 31 (25 – 1); 127 (27 – 1); 8,191 (213 – 1); etc – many, but not all, Mersenne numbers are primes, e.g. 2,047 = 211 – 1 = 23 x 89, so 2,047 is a Mersenne number but not a Mersenne prime"
+method of exhaustion,a method of finding the area of a shape by inscribing inside it a sequence of polygons whose areas converge to the area of the containing shape (a precursor to the methods of calculus)
+modular arithmetic,"a system of arithmetic for integers, where numbers “wrap around” after they reach a certain value (the modulus), e.g. on a 12-hour clock, 15 o’clock is actually 3 o’clock (15 = 3 mod 12)"
+modulus,"a number by which two given numbers can be divided by integer division, and produce the same remainder, e.g. 38 ÷ 12 = 3 remainder 2, and 26 ÷ 12 = 2 remainder 2, therefore 38 and 26 are congruent modulo 12, or (38 ≡ 26) mod 12"
+monomial,"an algebraic expression consisting of a single term (although that term could be an exponent), e.g. y = 7x, y = 2x3"
+natural numbers,"the set of positive integers (regular whole counting numbers), sometimes including zero"
+negative numbers,"any integer, ration or real number which is less than 0, e.g. -743, -1.4, -√5 (but not √-1, which is an imaginary or complex number)"
+non-commutative algebra,"an algebra in which a x b does not always equal b x a, such as that used by quaternions"
+non-Euclidean geometry,"geometry based on a curved plane, whether elliptic (spherical) or hyperbolic (saddle-shaped), in which there are no parallel lines and the angles of a triangle do not sum to 180°"
+normal (Gaussian) distribution,"a continuous probability distribution in probability theory and statistics that describes data which clusters around the mean in a curved “bell curve”, highest in the middle and quickly tapering off to each side"
+number line,"a line on which all points correspond to real numbers (a simple number line may only mark integers, but in theory all real numbers to +/- infinity can be shown on a number line)"
+number theory,"the branch of pure mathematics concerned with the properties of numbers in general, and integers in particular"
+ordinal numbers,an extension of the natural numbers (different from integers and from cardinal numbers) used to describe the order type of sets i.e. the order of elements within a set or series
+parabola,"a type of conic section curve, any point of which is equally distant from a fixed focus point and a fixed straight line"
+paradox,"a statement that appears to contradict itself, suggesting a solution which is actually impossible"
+partial differential equation,a relation involving an unknown function with several independent variables and its partial derivatives with respect to those variables
+Pascal’s Triangle,a geometrical arrangement of the coefficients of the polynomial expansion of a binomial power of the form (x + y)n as a symmetrical triangle of numbers
+perfect number,"a number that is the sum of its divisors (excluding the number itself), e.g. 28 = 1 + 2 + 4 + 7 + 14"
+periodic function,"a function that repeats its values in regular intervals or periods, such as the trigonometric functions of sine, cosine, tangent, etc"
+permutation,"a particular ordering of a set of objects, e.g. given the set {1, 2, 3}, there are six permutations"
+pi (π),"the ratio of a circumference of a circle to its diameter, an irrational (and transcendental) number approximately equal to 3.141593…"
+place value,"positional notation for numbers, allowing the use of the same symbols for different orders of magnitude, e.g. the “one’s place”, “ten’s place”, “hundred’s place”, etc"
+Platonic solids,the five regular convex polyhedra (symmetrical 3-dimensional shapes)
+polar coordinates,a two-dimensional coordinate system in which each point on a plane is determined by its distance r from a fixed point (e.g. the origin) and its angle θ (theta) from a fixed direction (e.g the x axis)
+polynomial,"an algebraic expression or equation with more than one term, constructed from variables and constants using only the operations of addition, subtraction, multiplication and non-negative whole-number exponents, e.g. 5x2 – 4x + 4y + 7"
+prime numbers,integers greater than 1 which are only divisible by themselves and 1
+projective geometry,"a kind of non-Euclidean geometry which considers what happens to shapes when they are projected on to a non-parallel plane, e.g. a circle may be projected into an ellipse or a hyperbola"
+plane,"a flat two-dimensional surface (physical or theoretical) with infinite width and length, zero thickness and zero curvature"
+probability theory,"the branch of mathematics concerned with analysis of random variables and events, and with the interpretation of probabilities (the likelihood of an event happening)"
+Pythagoras’ (Pythagorean) theorem,the square of the hypotenuse of a right angled triangle is equal to the sum of the squares of the two sides (a2 + b2 = c2)
+Pythagorean triples,"groups of three positive integers a, b and c such that the a2 + b2 = c2 equation of Pythagoras’ theorem, e.g. ( 3, 4, 5), ( 5, 12, 13), ( 7, 24, 25), ( 8, 15, 17), etc"
+quadratic equation,"a polynomial equation with a degree of 2 (i.e. the highest power is 2), of the form ax2 + bx + c = 0, which can be solved by various methods including factoring, completing the square, graphing, Newton’s method and the quadratic formula"
+quadrature,"the act of squaring, or finding a square equal in area to a given figure, or finding the area of a geometrical figure or the area under a curve (such as by a process of numerical integration)"
+quartic equation,"a polynomial having a degree of 4 (i.e. the highest power is 4), of the form ax4 + bx3 + cx2 + dx + e = 0, the highest order polynomial equation that can be solved by factorization into radicals by a general formula"
+quaternions,"a number system that extends complex numbers to four dimensions (so that an object is described by a real number and three complex numbers, all mutually perpendicular to each other), which can be used to represent a three-dimensional rotation by just an angle and a vector"
+quintic equation,"a polynomial having a degree of 5 (i.e. the highest power is 5), of the form ax5 + bx4 + cx3 + dx2 + ex + f = 0, not solvable by factorization into radicals for all rational numbers"
+rational numbers,"numbers that can be expressed as a fraction (or ratio) a⁄b of two integers (the integers are therefore a subset of the rationals), or alternatively a decimal which terminates after a finite number of digits or begins to repeat a sequence"
+real numbers,"all numbers (including natural numbers, integers, decimals, rational numbers and irrational numbers) which do not involve imaginary numbers (multiples of the imaginary unit i, or the square root of -1), may be thought of as all points on an infinitely long number line"
+reciprocal,"a number which, when multiplied by x yields the multiplicative identity 1, and can therefore be thought of as the inverse of multiplication, e.g. the reciprocal of x is 1⁄x, the reciprocal of 3⁄5 is 5⁄3"
+Riemannian geometry,a non-Euclidean geometry that studies curved surfaces and differentiable manifolds in higher dimensional spaces
+right triangle,a triangle (three sided polygon) containing an angle of 90°
+self-similarity,"object is exactly or approximately similar to a part of itself (in fractals, the shapes of lines at different iterations look like smaller versions of earlier shapes)"
+sequence,"an ordered set whose elements are usually determined based on some function of the counting numbers, e.g. a geometric sequence is a set where each element is a multiple of the previous element; an arithmetic sequence is a set where each element is the previous element plus or minus a number"
+set,"a collection of distinct objects or numbers, without regard to their order, considered as an object in its own right"
+significant digits,"the number of digits to consider when using measuring numbers, those digits that carry meaning contributing to its precision (i.e. ignoring leading and trailing zeros)"
+simultaneous equations,"a set or system of equations containing multiple variables which has a solution that simultaneously satisfies all of the equations (e.g. the set of simultaneous linear equations 2x + y = 8 and x + y = 6, has a solution x = 2 and y = 4)"
+slope,"the steepness or incline of a line, determined by reference to two points on the line, e.g. the slope of the line y = mx + b is m, and represents the rate at which y is changing per unit of change in x"
+spherical geometry,"a type of non-Euclidean (elliptic) geometry using the two-dimensional surface of a sphere, where a curved geodesic (not a straight line) is the shortest paths between points"
+spherical trigonometry,"a branch of spherical geometry which deals with polygons (especially triangles) on the sphere, and the relationships between their sides and angles"
+subset,"a subsidiary collection of objects that all belong to, or is contained in, an original given set, e.g. subsets of {a, b} could include"
+surd,"the n-th root a number, such as √5, the cube root of 7, etc"
+symmetry,"the correspondence in size, form or arrangement of parts on a plane or line (line symmetry is where each point on one side of a line has a corresponding point on the opposite side, e.g. a picture a butterfly with wings that are identical on either side; plane symmetry refers to similar figures being repeated at different but regular locations on the plane)"
+tensor,"a collection of numbers at every point in space which describe how much the space is curved, e.g. in four spatial dimensions, a collection of ten numbers is needed at each point to describe the properties of the mathematical space or manifold, no matter how distorted it may be"
+term,"in an algebraic expression or equation, either a single number or variable, or the product of several numbers and variables separated from another term by a + or – sign, e.g. in the expression 3 + 4x + 5yzw, the 3, the 4x and the 5yzw are all separate terms"
+theorem,"a mathematical statement or hypothesis which has been proved on the basis of previously established theorems and previously accepted axioms, effectively the proof of the truth of a statement or expression"
+topology,"the field of mathematics concerned with spatial properties that are preserved under continuous deformations of objects (such as stretching, bending and morphing, but not tearing or gluing)"
+transcendental number,"an irrational number that is “not algebraic”, i.e. no finite sequence of algebraic operations on integers (such as powers, roots, sums, etc.) can be equal to its value, examples being π and e. For example, √2 is irrational but not transcendental because it is the solution to the polynomial x2 = 2."
+transfinite numbers,"cardinal numbers or ordinal numbers that are larger than all finite numbers, yet not necessarily absolutely infinite"
+triangular number,"a number which can be represented as an equilateral triangle of dots, and is the sum of all the consecutive numbers up to its largest prime factor – it can also be calculated as n(n + 1)⁄2, e.g. 15 = 1 + 2 + 3 + 4 + 5 = 5(5 + 1)⁄2"
+trigonometry,"the branch of mathematics that studies the relationships between the sides and the angles of right triangles, and deals with and with the trigonometric functions (sine, cosine, tangent and their reciprocals)"
+trinomial,"an algebraic equation with 3 terms, e.g. 3x + 5y + 8z; 3x3 + 2x2 + x; etc"
+type theory,"an alternative to naive set theory in which all mathematical entities are assigned to a type within a hierarchy of types, so that objects of a given type are built exclusively from objects of preceding types lower in the hierarchy, thus preventing loops and paradoxes"
+vector,"a physical quantity having magnitude and direction, represented by a directed arrow indicating its orientation in space"
+vector space,"a three-dimensional area where vectors can be plotted, or a mathematical structure formed by a collection of vectors"
+Venn diagram,"a diagram where sets are represented as simple geometric figures (often circles), and overlapping and similar sets are represented by intersections and unions of the figures"
+Zermelo-Fraenkel set theory,"the standard form of set theory and the most common foundation of modern mathematics, based on a list of nine axioms (usually modified by a tenth, the axiom of choice) about what kinds of sets exist, commonly abbreviated together as ZFC"
+Zeta function,A function based on an infinite series of reciprocals of exponents (Riemann’s zeta function is the extension of Euler’s simple zeta function into the domain of complex numbers)

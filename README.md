@@ -6,7 +6,6 @@ High school and Senior high school students.
 ### Topic Inclusions
 Basic arithmetic, Algebra, Geometry and Trigonometry.
 
-
 ### Features
 
 * **Search**: Looks up mathematicians and math concepts
@@ -22,7 +21,6 @@ Basic arithmetic, Algebra, Geometry and Trigonometry.
 * Telegram
 * Jupyter Notebook
 
-
 ### Recommendations
 * Saving of information to a database for multiple user sessions
 * Search 
@@ -35,8 +33,7 @@ Basic arithmetic, Algebra, Geometry and Trigonometry.
   * Include concept and word problems 
 * Include a function that automatically exits the chatbot after it exceed a specific idle time.
 
-
-## Contributors
+### Contributors
 * [Danilo Gubaton Jr](https://www.linkedin.com/in/dcgubatonjr/)
 * [Fili Emerson Chua](https://www.linkedin.com/in/fili-emerson-chua/)
 * [Rhey Ann Magcalas](https://www.linkedin.com/in/rhey-ann-magcalas-47541490/)
@@ -46,7 +43,8 @@ Basic arithmetic, Algebra, Geometry and Trigonometry.
 * [Albert Yumol](https://www.linkedin.com/in/albertyumol/)
 * [Ricardo Alindayu](https://www.linkedin.com/in/rcalindayu/)
 
-
 ### Additional Resources:
+* [Math Terminologies](https://www.storyofmathematics.com/glossary.html)
+* [Mathematicians](https://famous-mathematicians.com/list/)
 * [Spacy](https://spacy.io/)
 * [Telegram APIs](https://core.telegram.org/bots)
