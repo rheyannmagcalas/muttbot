@@ -40,7 +40,8 @@ Basic arithmetic, Algebra, Geometry and Trigonometry.
 * [Rhey Ann Magcalas](https://www.linkedin.com/in/rhey-ann-magcalas-47541490/)
 * [Roberto Bañadera, Jr](https://www.linkedin.com/in/robertobanaderajr/)
 
-### Acknowledgments:
+### Special Thanks:
+* [Eskwelabs](https://www.eskwelabs.com/)
 * [Albert Yumol](https://www.linkedin.com/in/albertyumol/)
 * [Ricardo Alindayu](https://www.linkedin.com/in/rcalindayu/)
 
